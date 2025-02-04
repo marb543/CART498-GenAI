@@ -1,0 +1,41 @@
+Iteration 1 : n=100000000 i=4
+Iteration 1 Output :
+Enter base number (n): 100000000
+Enter iterations (i): 4
+Correct 10000000000000000: AI 10000000000000000
+Iteration 1: Correct! 10000000000000000
+Correct 100000000000000000000000000000000: AI 100000000000000000000000000000
+Iteration 2: Oops! GPT-4o said 100000000000000000000000000000, but the correct answer is 100000000000000000000000000000000.
+Math is hard, okay?
+Correct 10000000000000000000000000000000000000000000000000000000000000000: AI 100000000000000000000000000000
+Iteration 3: Oops! GPT-4o said 100000000000000000000000000000, but the correct answer is 10000000000000000000000000000000000000000000000000000000000000000.
+Oh no, I did it again!
+Correct 100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000: AI 100000000000000000000000000000
+Iteration 4: Oops! GPT-4o said 100000000000000000000000000000, but the correct answer is 100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000.
+Alright, I give up. Can I blame the calculator?
+
+Iteration 2 : n=0 i=6
+Iteration 2 Output :
+Enter base number (n): 0
+Enter iterations (i): 6
+Correct 0: AI 0
+Multiplying by zero is like my confidence level—completely gone!
+Iteration 1: Correct! 0
+Correct 0: AI 0
+Multiplying by zero is like my confidence level—completely gone!
+Iteration 2: Correct! 0
+Correct 0: AI 0
+Multiplying by zero is like my confidence level—completely gone!
+Iteration 3: Correct! 0
+Correct 0: AI 0
+Multiplying by zero is like my confidence level—completely gone!
+Iteration 4: Correct! 0
+Correct 0: AI 0
+Multiplying by zero is like my confidence level—completely gone!
+Iteration 5: Correct! 0
+Correct 0: AI 0
+Multiplying by zero is like my confidence level—completely gone!
+Iteration 6: Correct! 0
+
+Iteration 3 :
+Iteration 3 Output : 
